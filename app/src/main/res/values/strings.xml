@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">解除通知白名单</string>
+    <string name="desc">关闭国行通知白名单（USE_WHITE_LISTS=false），国际版不处理</string>
+</resources>
